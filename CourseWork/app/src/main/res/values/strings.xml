@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CourseWorkMain</string>
+    <string name="Home_item">Главное</string>
+    <string name="New_item">Новинки</string>
+    <string name="Category_item">Каталог</string>
+    <string name="Favorite_item">Избранное</string>
+    <string name="Brand_item">Бренды</string>
+    <string name="app_name2">Clothing</string>
+    <string name="app_name3">Store</string>
+    <string name="filter">Filter</string>
+    <string name="summer">Лето</string>
+    <string name="spring">Весна</string>
+    <string name="winter">Зима</string>
+    <string name="winter2">Осень</string>
+    <string name="cost">Стоимость</string>
+    <string name="brand">Бренд</string>
+    <string name="desc1">Cочетание вкуса и качества!</string>
+
+
+</resources>
